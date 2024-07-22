@@ -1,4 +1,4 @@
-# hotel-price-EDA-and-prediction-model
+# dynamic-hotel-price-EDA-and-prediction-model
 
 Sources and Datasets :
 
